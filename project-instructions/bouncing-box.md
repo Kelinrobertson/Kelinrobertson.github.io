@@ -66,7 +66,6 @@ var box = jQuery('.box');
 var board = jQuery('.board');
 var boardWidth = board.width();	// the maximum X-Coordinate of the screen
 ```
-
 The `jQuery` Function allows us to bring HTML elements into our JavaScript code. Consider this line of code:
 
 ```javascript
